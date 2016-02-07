@@ -15,4 +15,5 @@ namespace ForgeAnalytics.Models
 
         public Dictionary<string, string> Properties { get; set; }
     }
+
 }
