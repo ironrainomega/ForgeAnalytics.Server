@@ -7,7 +7,8 @@ using System.Web.Http;
 
 namespace ForgeAnalytics.Controllers
 {
-    public class ValuesController : ApiController
+    // Not needed at all...
+   /* public class ValuesController : ApiController
     {
         // GET api/values
         public IEnumerable<string> Get()
@@ -35,5 +36,5 @@ namespace ForgeAnalytics.Controllers
         public void Delete(int id)
         {
         }
-    }
+    }*/
 }
